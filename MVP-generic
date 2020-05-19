@@ -4,3 +4,23 @@ Gathering insights from an MVP is often less expensive than developing a product
 which increases costs and risk if the product fails, for example, due to incorrect assumptions.
 The term was coined and defined in 2001 by Frank Robinson[4] and then popularized by Steve Blank and Eric Ries.
 It may also involve carrying out market analysis beforehand.
+
+Description
+A minimum viable product has just enough core features to effectively deploy the product, and no more. 
+Developers typically deploy the product to a subset of possible customers—such as early adopters thought to be more forgiving,
+more likely to give feedback, and able to grasp a product vision from an early prototype or marketing information. 
+This strategy targets avoiding building products that customers do not want and seeks to maximize information about the 
+customer with the least money spent.
+"The minimum viable product is that version of a new product a team uses to collect the maximum amount of validated 
+learning about customers with the least effort."[2] The definition's use of the words maximum and minimum means it is 
+not formulaic. It requires judgement to figure out, for any given context, what MVP makes sense. Due to this vagueness, 
+the term MVP is commonly used, either deliberately or unwittingly, to refer to a much broader notion ranging from a rather
+prototype-like product to a fully-fledged and marketable product.
+
+An MVP can be part of a strategy and process directed toward making and selling a product to customers.
+It is a core artifact in an iterative process of idea generation, prototyping, presentation, data collection, 
+analysis and learning. One seeks to minimize the total time spent on an iteration. The process is iterated until a
+desirable product/market fit is obtained, or until the product is deemed non-viable.
+
+
+

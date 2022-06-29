@@ -11,12 +11,12 @@ Test Data	The test data, or links to the test data, that are to be used while co
 Expected Result	The expected result of the test.
 Actual Result	The actual result of the test; to be filled after executing the test.
 Status	Pass or Fail. Other statuses can be ‘Not Executed’ if testing is not performed and ‘Blocked’ if testing is blocked.
-Remarks	Any comments on the test case or test execution.
+Remarks	Any comments on the test case or test execution. Test data comes here.
 Created By	The name of the author of the test case.
 Date of Creation	The date of creation of the test case.
-Executed By	The name of the person who executed the test.
-Date of Execution	The date of execution of the test.
-Test Environment	The environment (Hardware/Software/Network) in which the test was executed.
 
 
-Update for web development team 
+
+Update for web development team
+
+code was reviewed .

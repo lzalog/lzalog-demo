@@ -1,4 +1,4 @@
-From python: 3.7
+FROM python: 3.7
 
 RUN mkdir /opt/app
 WORKDIR /opt/app

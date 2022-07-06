@@ -1,4 +1,4 @@
-FROM python:3.7
+FROM python:3.8
 
 ONBUILD RUN mkdir /opt/app
 ONBUILD WORKDIR /opt/app

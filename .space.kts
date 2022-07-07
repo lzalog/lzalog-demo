@@ -3,7 +3,7 @@ job("Build and push Docker") {
         build {
             file = "./Dockerfile"
         }
-        push("spacedemolz.registry.jetbrains.space/p/dating-app/docker-python/myimage") {
+        push("spacedemolz.registry.jetbrains.space/p/dating-app/docker-demo/myimage") {
             tags("version1.0")
         }
     }

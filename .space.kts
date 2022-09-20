@@ -8,3 +8,25 @@ job("Build and push Docker") {
         }
     }
 }
+
+job("Build and push Docker") {
+ 
+   docker {
+ 
+       build {
+ 
+           context = "docker"
+ 
+           file = "./docker/Dockerfile"
+ 
+       }
+
+       push("demo.registry.jetbrains.space/p/atm/demo/myimage") {
+ 
+           tags("version1.0")
+ 
+       }
+ 
+   }
+
+}

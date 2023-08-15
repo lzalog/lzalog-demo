@@ -10,7 +10,7 @@ editor:
 # (Required) IDE type: Idea, WebStorm, PyCharm,
 # RubyMine, CLion, Fleet, GoLand, PhpStorm
 type: Idea
-version: '2022.1'
+version: '2022.2'
 # Space uses JetBrains Toolbox App to install IDEs to a dev environment.
 # updateChannel defines IDE version release stage: Release, EAP
 updateChannel: EAP
